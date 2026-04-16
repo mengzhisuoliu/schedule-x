@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [4.5.0](https://github.com/schedule-x/schedule-x/compare/v4.4.0...v4.5.0) (2026-04-16)
+
+### Features
+
+- weekly agenda ([#1297](https://github.com/schedule-x/schedule-x/issues/1297)) ([bd7cd3d](https://github.com/schedule-x/schedule-x/commit/bd7cd3dabbb52c0cae34a00595d3c9d3129ebfbf))
+
 # [4.4.0](https://github.com/schedule-x/schedule-x/compare/v4.3.1...v4.4.0) (2026-04-09)
 
 ### Features
