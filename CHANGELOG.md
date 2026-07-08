@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.6.1](https://github.com/schedule-x/schedule-x/compare/v4.6.0...v4.6.1) (2026-07-08)
+
+### Bug Fixes
+
+- apply slide transition class synchronously to eliminate 1-frame FOUC on week navigation ([#1326](https://github.com/schedule-x/schedule-x/issues/1326)) ([b3dc526](https://github.com/schedule-x/schedule-x/commit/b3dc52682a51419921d11d456411e4767b782050))
+- **calendar:** compare zero-duration event times by instant ([#1339](https://github.com/schedule-x/schedule-x/issues/1339)) ([8f67261](https://github.com/schedule-x/schedule-x/commit/8f672611f86c2826681553264d87e564ef60f156))
+- fetchEvents callback doesn't expand rrule recurrences ([#1330](https://github.com/schedule-x/schedule-x/issues/1330)) ([21de14a](https://github.com/schedule-x/schedule-x/commit/21de14a1ef56e61c3699e0d80bad518e53e5c5d5))
+- synchronously initialize gridSteps to fix weekGridHour custom component in Svelte 5 ([#1329](https://github.com/schedule-x/schedule-x/issues/1329)) ([050c7e3](https://github.com/schedule-x/schedule-x/commit/050c7e373929ef7577055701d0358ca87e44c14d))
+
 # [4.6.0](https://github.com/schedule-x/schedule-x/compare/v4.5.0...v4.6.0) (2026-05-12)
 
 ### Bug Fixes
